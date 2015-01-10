@@ -1,0 +1,70 @@
+%!PS-Adobe-3.0
+%%Creator: Adobe Illustrator(TM) 3.2
+%%Title: Exported data from VCarve Pro
+%%CreationDate: Monday, December 30, 2013
+%%BoundingBox: 329.67122857 173.73677901 1110.33122857 716.28773901
+%%DocumentProcessColors: Black
+%%DocumentNeededResources: procset Adobe_packedarray 2.0 0
+%%+ procset Adobe_cshow 1.1 0
+%%+ procset Adobe_customcolor 1.0 0
+%%+ procset Adobe_Illustrator_AI3 1.0 1
+%0X1.061280P-1003I3_ColorUsage: Color
+%0X1.0610C0P-1003I3_DocumentPreview: None
+%%PageOrigin:0 0
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_packedarray 2.0 0
+Adobe_packedarray /initialize get exec
+%%IncludeResource: procset Adobe_cshow 1.1 0
+%%IncludeResource: procset Adobe_customcolor 1.0 0
+%%IncludeResource: procset Adobe_Illustrator_AI3 1.0 1
+%%EndProlog
+%%BeginSetup
+Adobe_cshow /initialize get exec
+Adobe_customcolor /initialize get exec
+Adobe_Illustrator_AI3 /initialize get exec
+%%EndSetup
+0 A
+0 R
+0 0 0 1 K
+0 J 0 j 1 w 4 M []0 d
+1063.999229 679.970939 m
+376.003229 679.970939 L
+370.471986 679.970939 365.988029 675.486981 365.988029 669.955739 c
+365.988029 220.068779 L
+365.988029 214.537537 370.471986 210.053579 376.003229 210.053579 c
+1063.999229 210.053579 L
+1069.530471 210.053579 1074.014429 214.537537 1074.014429 220.068779 c
+1074.014429 669.955739 L
+1074.014429 675.486981 1069.530471 679.970939 1063.999229 679.970939 c
+S
+1110.331229 220.068779 m
+1110.331229 669.955739 L
+1110.331229 695.544196 1089.587686 716.287739 1063.999229 716.287739 c
+376.003229 716.287739 L
+350.414772 716.287739 329.671229 695.544196 329.671229 669.955739 c
+329.671229 220.068779 L
+329.671229 194.480322 350.414772 173.736779 376.003229 173.736779 c
+1063.999229 173.736779 L
+1089.587686 173.736779 1110.331229 194.480322 1110.331229 220.068779 c
+S
+382.548029 219.952325 m
+1057.454429 219.952325 L
+1057.454429 670.072193 L
+382.548029 670.072193 L
+382.548029 219.952325 L
+S
+400.548029 237.952325 m
+1039.454429 237.952325 L
+1039.454429 652.072193 L
+400.548029 652.072193 L
+400.548029 237.952325 L
+S
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_Illustrator_AI3 /terminate get exec
+Adobe_customcolor /terminate get exec
+Adobe_cshow /terminate get exec
+Adobe_packedarray /terminate get exec
+%%EOF
